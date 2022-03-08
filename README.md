@@ -11,3 +11,11 @@
 - Typing module from which Lists were used
 - Colorama module from which Fore used
 - Random to select random word
+
+```py
+from typing import List
+from letter_state import LetterState
+from wordle import Wordle
+from colorama import Fore
+import random
+```
