@@ -14,8 +14,6 @@
 
 ```py
 from typing import List
-from letter_state import LetterState
-from wordle import Wordle
 from colorama import Fore
 import random
 ```
