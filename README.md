@@ -1,5 +1,4 @@
 # Wordle clone using Python 🐍
-<img scr="https://github.com/NDhingra01/Wordle-Clone/blob/main/Preview.png" width="256">
 
 ## Project Setup
 - It consists of total 4 files
