@@ -1,4 +1,5 @@
 # Wordle clone using Python 🐍
+<img scr = ""></img>
 
 ## Project Setup
 - It consists of total 4 files
