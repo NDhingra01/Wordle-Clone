@@ -1,4 +1,6 @@
 # Wordle clone using Python 🐍
+<img src="https://user-images.githubusercontent.com/85800910/167696191-f1d4ae46-f9be-45cd-983b-6f4f735088bc.png" height="400"/>
+
 
 ## Project Setup
 - It consists of total 4 files
